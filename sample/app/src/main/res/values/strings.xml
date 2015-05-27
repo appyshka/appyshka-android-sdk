@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">APSDK Demo App</string>
+
+    <string name="show_banner_view">Show banner view</string>
+    <string name="show_banner_list">Show banner list</string>
+    <string name="show_banner_wall">Show banner wall</string>
+    <string name="load_banner_wall">Load banner wall</string>
+
+    <string name="connection_error">Connection error</string>
+    <string name="not_enought_space_error">Not enough space to show ad</string>
+    <string name="banner_wall_ad_loaded">Loaded</string>
+
+</resources>
